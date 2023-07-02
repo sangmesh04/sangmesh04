@@ -56,7 +56,7 @@
   <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangmesh04&theme=nord" alt="Top Languages" width="24%"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://activity-graph.herokuapp.com/graph?username=sangmesh04&theme=nord" width="66%">
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=sangmesh04&theme=nord" width="66%"> -->
 <br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangmesh04&theme=nord" alt="Streak Stats" width="45%"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
